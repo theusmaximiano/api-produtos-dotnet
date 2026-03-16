@@ -1,4 +1,4 @@
-# Web API .NET 9 – CRUD de Produtos
+# Web API .NET 9 / CRUD de Produtos
 
 Este projeto é uma API REST desenvolvida com .NET 9 utilizando Entity Framework Core e SQL Server.
 
